@@ -18,3 +18,4 @@ CSV format:
 
 IP addresses in the first column, device type in the second.
 Device type variables: cisco_ios, cisco_asa, juniper, hp_procurve
+Template included in repo
