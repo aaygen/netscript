@@ -6,6 +6,10 @@ A basic Python script to run various commands on network devices
 Dependencies:
 
 
+
+
+
+
 Netmiko
 
 progressbar2
