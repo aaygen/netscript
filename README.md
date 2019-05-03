@@ -10,7 +10,7 @@ progressbar2
 
 Working features:
 
-Grabbing running configuration from Cisco IOS, ASA and JunOS devices
+Grabbing running configuration from Cisco IOS, ASA and JunOS devices \n
 Grabbing "show version" output from Cisco IOS, ASA and JunOS devices
 Running any "show" command if the input contains only a single device type
 
